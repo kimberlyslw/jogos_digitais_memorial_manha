@@ -1,6 +1,6 @@
 ## Informações
-* **Disciplina:** Arquitetura de Software
-* **Campus:** Vergueiro
+* **Disciplina:** Jogos Digitais
+* **Campus:** Memorial
 * **Período:** Manhã
 
 ## Descrição
